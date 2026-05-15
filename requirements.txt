@@ -1,0 +1,5 @@
+flask==3.0.0
+gunicorn==21.2.0
+sqlalchemy==2.0.23
+pg8000==1.30.3
+google-cloud-pubsub==2.18.4
